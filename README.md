@@ -23,6 +23,8 @@ I'm a Software Engineering Manager specializing in building high-performing engi
 ---
 
 ### 📦 Featured Projects
+- [Azure Developer CLI](https://github.com/Azure/azure-dev)
+- [Azure MCP](https://github.com/Micorosoft/mcp)
 - [Azure SDK for Go](https://github.com/Azure/azure-sdk-for-go)
 - [Azure SDK for Rust](https://github.com/Azure/azure-sdk-for-rust)
 - [Typespec Rust](https://github.com/Azure/typespec-rust)
