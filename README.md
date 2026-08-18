@@ -1,27 +1,28 @@
 # Hi there, I'm Rick Winter! 👋
 
-## 🚀 Software Engineering Manager | Azure Developer Experience
+## 🚀 Software Engineering Manager | Azure SDKs Enthusiast
 
 Welcome to my GitHub profile!  
-I'm a Software Engineering Manager focused on helping developers build great cloud applications with Azure. My current areas of ownership include the Azure Developer CLI (`azd`), Azure MCP servers, Azure Skills, and the Azure SDKs for Rust, Go, and C++.
+I'm a Software Engineering Manager specializing in building high-performing engineering teams and leading innovative projects in cloud computing, AI, and security. I thrive on solving complex problems, mentoring developers, and delivering impactful software.
 
-I enjoy building high-performing engineering teams, creating simple and reliable developer experiences, and delivering tools that help developers move from idea to production with confidence.
+My current areas of ownership include the Azure Developer CLI (`azd`), Azure MCP servers, Azure Skills, and the Azure SDKs for Rust, Go, and C++.
 
 ---
 
 ### 🛠️ Skills & Expertise
-- **Developer Experience**: Designing tools, CLIs, SDKs, and workflows that make Azure easier to adopt.
-- **Engineering Leadership**: Building teams that deliver reliable services, high-quality libraries, and impactful developer tooling.
-- **Azure SDKs**: Leading work across Rust, Go, and C++ Azure SDKs with a focus on consistency, quality, and usability.
-- **AI-Native Development**: Advancing Azure MCP servers, Azure Skills, and GitHub Copilot for Azure experiences.
-- **Cloud Foundations**: Distributed systems, scalable cloud architectures, and secure-by-default engineering practices.
+- **Software Development**: Architecting scalable solutions and writing robust code.
+- **Team Organization & Leadership**: Building and guiding talented teams to success.
+- **Cloud Computing**: Azure SDKs, distributed systems, and scalable cloud architectures.
+- **AI & Security**: Implementing intelligent features with a security-first mindset.
+- **Current Ownership**: Azure Developer CLI (`azd`), Azure MCP servers, Azure Skills, and the Azure SDKs for Rust, Go, and C++.
 
 ---
 
 ### 💻 Technologies I Love
-- **Languages:** Rust, Go, C++, C#, TypeScript
+- **Languages:** C++, C#, Go, Rust, TypeScript
+- **Frameworks/Platforms:** .NET (CLR threading), PTVS (Python Tools for Visual Studio), NTVS (Node.js Tools for Visual Studio)
 - **Developer Tools:** Azure Developer CLI (`azd`), Azure MCP servers, Azure Skills, GitHub Copilot for Azure
-- **Cloud:** Azure SDKs, Azure developer tooling, cloud-native application development
+- **Cloud:** Azure SDKs
 
 ---
 
