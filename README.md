@@ -5,6 +5,8 @@
 Welcome to my GitHub profile!  
 I'm a Software Engineering Manager specializing in building high-performing engineering teams and leading innovative projects in cloud computing, AI, and security. I thrive on solving complex problems, mentoring developers, and delivering impactful software.
 
+My current areas of ownership include the Azure Developer CLI (`azd`), Azure MCP servers, Azure Skills, and the Azure SDKs for Rust, Go, and C++.
+
 ---
 
 ### 🛠️ Skills & Expertise
@@ -12,19 +14,22 @@ I'm a Software Engineering Manager specializing in building high-performing engi
 - **Team Organization & Leadership**: Building and guiding talented teams to success.
 - **Cloud Computing**: Azure SDKs, distributed systems, and scalable cloud architectures.
 - **AI & Security**: Implementing intelligent features with a security-first mindset.
+- **Current Ownership**: Azure Developer CLI (`azd`), Azure MCP servers, Azure Skills, and the Azure SDKs for Rust, Go, and C++.
 
 ---
 
 ### 💻 Technologies I Love
 - **Languages:** C++, C#, Go, Rust, TypeScript
 - **Frameworks/Platforms:** .NET (CLR threading), PTVS (Python Tools for Visual Studio), NTVS (Node.js Tools for Visual Studio)
+- **Developer Tools:** Azure Developer CLI (`azd`), Azure MCP servers, Azure Skills, GitHub Copilot for Azure
 - **Cloud:** Azure SDKs
 
 ---
 
 ### 📦 Featured Projects
 - [Azure Developer CLI](https://github.com/Azure/azure-dev)
-- [Azure MCP](https://github.com/Micorosoft/mcp)
+- [Azure MCP](https://github.com/microsoft/mcp)
+- [Azure Skills](https://github.com/microsoft/azure-skills)
 - [GitHub Copilot for Azure](https://github.com/microsoft/GitHub-Copilot-for-Azure)
 - [Azure SDK for Go](https://github.com/Azure/azure-sdk-for-go)
 - [Azure SDK for Rust](https://github.com/Azure/azure-sdk-for-rust)
@@ -45,4 +50,3 @@ I'm a Software Engineering Manager specializing in building high-performing engi
 ---
 
 _Thanks for stopping by! Want to collaborate or just chat about tech? Feel free to reach out!_
-
